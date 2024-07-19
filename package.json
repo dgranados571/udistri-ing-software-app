@@ -13,6 +13,8 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "aws-sdk": "^2.1608.0",
+    "axios": "^1.6.8",
     "google-map-react": "^2.2.1",
     "google-maps-react-markers": "^2.0.8",
     "react": "^18.2.0",

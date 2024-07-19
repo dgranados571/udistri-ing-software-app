@@ -1,10 +1,10 @@
 import React from "react";
 import './App.css';
-import Mapa from "./componentes/mapa/Mapa";
+import UploadFile from "./componentes/uploadPDF/uploadFile";
 
 function App() {
   return (
-    <Mapa />
+    <UploadFile />
   );
 }
 
